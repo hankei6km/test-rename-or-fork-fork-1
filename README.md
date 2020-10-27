@@ -8,6 +8,8 @@ $ git remote set-url origin git@github.com:hankei6km/test-rename-or-fork-fork-1.
 $ git push origin
 ```
 
+元のリポジトリ: https://github.com/hankei6km/test-rename-or-fork-fork
+
 良いところ 
  
 - 元nのリポジトリが残る(どこで分岐したが、手がかり的なものは残る)
